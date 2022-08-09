@@ -1,0 +1,3 @@
+name: comp4050-config
+runtime: nodejs
+description: A minimal AWS TypeScript Pulumi program
