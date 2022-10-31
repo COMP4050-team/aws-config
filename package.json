@@ -1,7 +1,7 @@
 {
     "name": "comp4050-config",
     "devDependencies": {
-        "@types/node": "^14"
+        "@types/node": "^18.0.0"
     },
     "dependencies": {
         "@pulumi/pulumi": "^3.0.0",
